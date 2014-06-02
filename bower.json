@@ -1,0 +1,19 @@
+{
+  "name": "phonegap-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/colinmacdonald/phonegap-example",
+  "authors": [
+    "Colin MacDonald <colin@goinstant.com>"
+  ],
+  "description": "phonegap-example",
+  "keywords": [
+    "phonegap",
+    "goinstant"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "lodash": "~2.4.1"
+  }
+}
